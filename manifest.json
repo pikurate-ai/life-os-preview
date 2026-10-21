@@ -1,7 +1,7 @@
 {
   "id": "/life-os-preview/",
-  "name": "Life OS 테스트 — iPhone 미리보기",
-  "short_name": "Life OS 테스트",
+  "name": "Life OS — iPhone 미리보기",
+  "short_name": "Life OS",
   "description": "하루의 기록이 내일의 방향이 되도록.",
   "lang": "ko",
   "start_url": "/life-os-preview/",
